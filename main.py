@@ -35,9 +35,6 @@ def check_winning(columns,lines,bet,values):
             winning_lines.append(line + 1)
     return winnings, winning_lines
 
-
-
-
 def get_Slot_spins(rows,cols,symbols):
     All_symbols = []
     for symbol, symbol_count in symbols.items():
