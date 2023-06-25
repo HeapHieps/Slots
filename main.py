@@ -1,8 +1,8 @@
 import random
 
 MAX_LINES = 3
-MAX_BET = 100
-MIN_BET = 1
+MAX_BET = 100 # Maxium amount you can bet(interchangeable)
+MIN_BET = 1   # Minimum amount you can bet(interchangeable)
 
 ROWS = 3
 COLS = 3
